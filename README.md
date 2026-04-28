@@ -7,8 +7,8 @@ The current implementation focuses on predicting:
 - final deposit thickness (h)
 
 For further details, please consult the preprint "Neural emulation of gravity-driven geohazard runout" by [Nava et al (2025)](https://arxiv.org/abs/2512.16221).
-Model weights can be downloaded from the Zenodo repository [Nava et al (2026)](https://zenodo.org/records/19853721).
-The training dataset can be downloaded from the Zenodo repository [Nava et al (2026)](https://zenodo.org/records/19831785).
+Model weights can be downloaded from the Zenodo repository [Nava et al (2026)a](https://zenodo.org/records/19853721).
+The training dataset can be downloaded from the Zenodo repository [Nava et al (2026)b](https://zenodo.org/records/19831785).
 
 
 
