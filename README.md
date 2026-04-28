@@ -6,18 +6,16 @@ The current implementation focuses on predicting:
 - runout extent (binary mask)
 - final deposit thickness (h)
 
-Although initially developed for landslide-like processes, the framework is designed to generalize to a broader class of mass flows. For further details, please consult the preprint "Neural emulation of gravity-driven geohazard runout" by [Nava et al (2025)](https://arxiv.org/abs/2512.16221).
+ For further details, please consult the preprint "Neural emulation of gravity-driven geohazard runout" by [Nava et al (2025)](https://arxiv.org/abs/2512.16221).
 
 ***Workflow***
 ![Workflow](https://github.com/lorenzonava96/Neural-Emulation-of-Mass-Flow-Runout/blob/main/figures/scheme.png)
-
-
 
 ---
 
 ## Overview
 
-Numerical simulation of mass flows (e.g. landslides, debris flows, volcanic flows) is computationally expensive.
+Numerical simulation of gravitational mass flows (e.g. landslides, debris flows, avalanches, volcanic flows) is computationally expensive.
 
 This project explores the use of deep learning models as fast emulators that approximate the outcome of such simulations, enabling:
 - rapid scenario exploration
